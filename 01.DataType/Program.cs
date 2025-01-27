@@ -4,7 +4,7 @@ using _01.DataType;
 
 int num1 = 70;
 int num2 = num1; // will show 70
-num1 = 80; // will show 80
+++num1; // will show 80
 Console.WriteLine($"Num1 value is {num1} and Num2 value is {num2}");
 
 string str1 = "Hello Nasir";

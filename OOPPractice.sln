@@ -24,9 +24,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.Polymorphism-CompileTime
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.Polymorphism-RunTime", "08.Polymorphism-RunTime\08.Polymorphism-RunTime.csproj", "{ABD76D21-BE1C-4E8A-A6AB-6A8F8210BA2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.MethodHiding", "09.MethodHiding\09.MethodHiding.csproj", "{274E46BE-F1CE-403C-B99C-F498C005DB24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.MethodHiding", "09.MethodHiding\09.MethodHiding.csproj", "{274E46BE-F1CE-403C-B99C-F498C005DB24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ConstructorChaining", "10.ConstructorChaining\10.ConstructorChaining.csproj", "{0153F6D7-2D1C-4C7A-BD51-044695AC53A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.ConstructorChaining", "10.ConstructorChaining\10.ConstructorChaining.csproj", "{0153F6D7-2D1C-4C7A-BD51-044695AC53A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Aggregation", "11.Aggregation\11.Aggregation.csproj", "{055F471D-7D00-424E-96B9-3EA75E7216E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Composition", "12.Composition\12.Composition.csproj", "{E1AA23AB-4A4F-4682-923E-C9EF9EE22B08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -74,6 +78,14 @@ Global
 		{0153F6D7-2D1C-4C7A-BD51-044695AC53A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0153F6D7-2D1C-4C7A-BD51-044695AC53A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0153F6D7-2D1C-4C7A-BD51-044695AC53A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055F471D-7D00-424E-96B9-3EA75E7216E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055F471D-7D00-424E-96B9-3EA75E7216E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055F471D-7D00-424E-96B9-3EA75E7216E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055F471D-7D00-424E-96B9-3EA75E7216E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1AA23AB-4A4F-4682-923E-C9EF9EE22B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AA23AB-4A4F-4682-923E-C9EF9EE22B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AA23AB-4A4F-4682-923E-C9EF9EE22B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AA23AB-4A4F-4682-923E-C9EF9EE22B08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
